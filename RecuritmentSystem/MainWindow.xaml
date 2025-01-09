@@ -1,0 +1,115 @@
+﻿<Window x:Class="RecuritmentSystem20122791.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecuritmentSystem20122791"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1000">
+    <Grid Background="#FFF2EAD9">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="24"/>
+            <ColumnDefinition Width="1.6666*"/>
+            <ColumnDefinition Width="1.6666*"/>
+            <ColumnDefinition Width="1.6666*"/>
+            <ColumnDefinition Width="15"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+        <Image Grid.Column="1" Grid.ColumnSpan="5" Grid.Row="1" Source="/BannerImage.jpg" Stretch="Fill"/>
+        <ListBox x:Name="ListboxJobs" Grid.Column="3" Grid.ColumnSpan="3" Grid.Row="2" Grid.RowSpan="6" Margin="0,10,0,10" Background="#FF000000" Foreground="White" FontSize="15" Padding="30,0,0,0" d:ItemsSource="{d:SampleData ItemCount=5}" MouseDoubleClick="ListboxJobs_MouseDoubleClick_1"/>
+        <Button x:Name="ButtonNewJob" Content="NEW JOB" Grid.Column="1" Margin="0,5,0,10" Grid.Row="2" Height="95" Width ="270" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="45" Background="#FFB4F6A0" Click="ButtonNewJob_Click"/>
+        <Button x:Name="ButtonAssign" Content="ASSIGN" Grid.Column="1" Margin="0,5,0,10" Grid.Row="3" Height="95" Width ="270" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="45" Background="#FFB4F6A0" Click="ButtonAssign_Click"/>
+        <Button x:Name="ButtonComplete" Content="COMPLETE" Grid.Column="1" Margin="0,5,0,10" Grid.Row="4" Height="95" Width ="270" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="45" Background="#FFB4F6A0" Click="ButtonComplete_Click"/>
+        <Button x:Name ="ButtonCancel" Content="CANCEL" Grid.Column="1" Margin="0,5,0,10" Grid.Row="5" Height="95" Width ="270" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="45" Background="#FFB4F6A0" Click="ButtonCancel_Click"/>
+        <Button x:Name="ButtonEdit" Content="EDIT" Grid.Column="1" Margin="0,5,0,10" Grid.Row="6" Height="95" Width ="270" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="45" BorderBrush="#FFD92014" Foreground="White" Click="ButtonEdit_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFF45A1E" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ButtonDelete" Content="DELETE" Grid.Column="1" Margin="0,5,0,10" Grid.Row="7" Height="95" Width ="270" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="45" BorderBrush="#FFD92014" Foreground="White" Click="ButtonDelete_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFF45A1E" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ButtonContractor" Content="CONTRACTOR INFO" Grid.Column="1" Margin="0,5,0,10" Grid.Row="8" Grid.RowSpan="2" Height="95" Width ="270" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="25" BorderBrush="#FFD92014" Foreground="White" Click="ButtonContractor_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF1854F8" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Label Grid.Column="2" Content="STATUS" HorizontalAlignment="Left" Grid.Row="8" VerticalAlignment="Center" Height="40" Width="76" VerticalContentAlignment="Center" FontSize="18" FontWeight="bold" HorizontalContentAlignment="Right" Margin="24,0,0,0" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="ComboboxStatus" Grid.Column="3" HorizontalAlignment="Right" Grid.Row="8" Width="140" Height="40" VerticalAlignment="Center" FontSize="18" VerticalContentAlignment="Center" Margin="0,0,5,0">
+            <ComboBoxItem Name="JobAllStatus" Content="All" FontSize="15"/>
+            <ComboBoxItem Name="JobCurrentAll" Content="Current(All)" FontSize="15"/>
+            <ComboBoxItem Name="JobAssigned" Content="Current(Assigned)" FontSize="15"/>
+            <ComboBoxItem Name="JobNotAssigned" Content="Current(Not Assigned)" FontSize="15"/>
+            <ComboBoxItem Name="JobCompleted" Content="Completed" FontSize="15"/>
+            <ComboBoxItem Name="JobSCancelled" Content="Cancelled" FontSize="15"/>
+        </ComboBox>
+
+        <Label Grid.Column="4" Content="TYPE" HorizontalAlignment="Left" Grid.Row="8" VerticalAlignment="Center" Margin="10,0,0,0" Height="40" Width="65" VerticalContentAlignment="Center" FontSize="18" FontWeight="bold" HorizontalContentAlignment="Right"/>
+        <ComboBox x:Name="ComboboxTypes" Grid.Column="4" HorizontalAlignment="Right" Grid.Row="8" Width="140" Height="40" VerticalAlignment="Center" FontSize="18" VerticalContentAlignment="Center" Margin="0,0,5,0">
+            <ComboBoxItem Name="JobAllType" Content="All" FontSize="15"/>
+            <ComboBoxItem Name="JobDrill" Content="Drill" FontSize="15"/>
+            <ComboBoxItem Name="JobExcavator" Content="Excavator" FontSize="15"/>
+            <ComboBoxItem Name="JobTruck" Content="Truck" FontSize="15"/>
+            <ComboBoxItem Name="JobCrusher" Content="Crusher" FontSize="15"/>
+            <ComboBoxItem Name="JobReclaimer" Content="Reclaimer" FontSize="15"/>
+            <ComboBoxItem Name="JobTrain" Content="Train" FontSize="15"/>
+        </ComboBox>
+
+        <Label Grid.Column="5" Content="$" HorizontalAlignment="Left" Grid.Row="8" VerticalAlignment="Center" Height="40" Width="22" VerticalContentAlignment="Center" FontSize="15" FontWeight="bold" HorizontalContentAlignment="Right" Margin="2,0,0,0"/>
+        <TextBox x:Name="TextboxMinCost" Grid.Column="5" HorizontalAlignment="Left" Grid.Row="8" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="75" Height="35" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Margin="25,0,0,0"/>
+        <Label Grid.Column="5" Content="$" HorizontalAlignment="Right" Grid.Row="8" VerticalAlignment="Center" Height="40" Width="22" VerticalContentAlignment="Center" FontSize="15" FontWeight="bold" HorizontalContentAlignment="Right" Margin="0,0,80,0"/>
+        <TextBox x:Name="TextboxMaxCost" Grid.Column="5" HorizontalAlignment="Right" Grid.Row="8" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="75" Height="35" FontSize="15" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Margin="0,0,5,0"/>
+
+
+        <Label Grid.Column="3" Content="JOB ID" HorizontalAlignment="Left" Grid.Row="9" VerticalAlignment="Center" Height="40" Width="76" VerticalContentAlignment="Center" FontSize="18" FontWeight="bold" HorizontalContentAlignment="Right" Margin="3,0,0,0"/>
+        <TextBox x:Name="TextboxJobID" Grid.Column="3" HorizontalAlignment="Right" Grid.Row="9" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="140" Height="40" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Margin="0,0,5,0"/>
+
+        <Label Grid.Column="4" Content="CONTRACTOR ID" HorizontalAlignment="Left" Grid.Row="9" VerticalAlignment="Center" Height="40" Width="80" VerticalContentAlignment="Center" FontSize="8.5" FontWeight="bold" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="TextboxConID" Grid.Column="4" HorizontalAlignment="Right" Grid.Row="9" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="140" Height="40" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Margin="0,0,5,0"/>
+
+        <Button x:Name="ButtonSearch" Content="SEARCH" Grid.Column="5" Grid.Row="9" Height="30" Width ="100" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Bold" FontSize="20" Foreground="White" Margin="10,0,0,0" Click="ButtonSearch_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF1854F8" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="ButtonReset" Content="Reset" Grid.Column="5" Grid.Row="9" Height="30" Width ="100" VerticalAlignment="Center" HorizontalAlignment="Right" FontWeight="Bold" FontSize="20" Foreground="White" Margin="0,0,5,0" Click="ButtonReset_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF1854F8" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label Grid.Column="5" Content="~" HorizontalAlignment="Center" Grid.Row="8" VerticalAlignment="Center" FontWeight="Bold"/>
+    </Grid>
+</Window>

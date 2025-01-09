@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ContractorAddWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="JobAssignWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ContractorDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ContractorEditWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ContractorWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EndDateWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="JobDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="JobEditWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="JobStartWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="JobAddWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PasswordWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ContractorTeminateWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ContractorAddWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="JobAssignWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ContractorDetailWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ContractorEditWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ContractorWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EndDateWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="JobDetailWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="JobEditWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="JobStartWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="JobAddWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PasswordWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ContractorTeminateWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

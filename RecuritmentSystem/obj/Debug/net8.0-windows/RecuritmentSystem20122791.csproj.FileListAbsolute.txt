@@ -1,0 +1,408 @@
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.sourcelink.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\NewJobWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\NewJobWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AddContractorWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AddContractorWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AddContractorWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AssignWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\NewJobWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AddContractorWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AssignWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\NewJobWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.baml
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.sourcelink.json
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\20122791\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AssignWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AssignWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\CancelDateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\CancelDateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AvailableContractorWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791\RecuritmentSystem20122791\obj\Debug\net8.0-windows\AvailableContractorWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\CancelDateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\CancelDateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.sourcelink.json
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\cSharpPractice\Assessment 2\Part A\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\CancelDateWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\CancelDateWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.baml
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\20122791\Temp\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.baml
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\20122791\source\repos\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAvailableContractorWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\TeminateWindow.baml
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\20122791\source\repos\test\RecuritmentSystem20122791_revision\RecuritmentSystem20122791_revision\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.sourcelink.json
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorTeminateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v2\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorTeminateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorTeminateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorTeminateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.sourcelink.json
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\davem\source\repos\tafe-1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.exe
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.deps.json
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.runtimeconfig.json
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\bin\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorTeminateWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791_MarkupCompile.lref
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorAddWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorDetailWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorEditWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorTeminateWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ContractorWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\EndDateWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAddWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobAssignWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobDetailWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobEditWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\JobStartWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\PasswordWindow.baml
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.g.resources
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfoInputs.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.AssemblyInfo.cs
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.csproj.CoreCompileInputs.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.sourcelink.json
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\refint\RecuritmentSystem20122791.dll
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.pdb
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\RecuritmentSystem20122791.genruntimeconfig.cache
+C:\Users\davem\source\repos\00_Completed\Tafe-s1-assignment\RecuritmentSystem20122791_v3\RecuritmentSystem20122791\obj\Debug\net8.0-windows\ref\RecuritmentSystem20122791.dll

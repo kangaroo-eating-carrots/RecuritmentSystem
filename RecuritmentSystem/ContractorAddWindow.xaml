@@ -1,0 +1,51 @@
+﻿<Window x:Class="RecuritmentSystem20122791.AddContractorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecuritmentSystem20122791"
+        mc:Ignorable="d"
+        Title="AddContractorWindow" Height="550" Width="350">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="1.2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="15"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="16"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1.3*"/>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition Height="16"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="1" Content="SKILLS" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Width="110" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+        <Label Grid.Column="1" Content="NAME" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Width="110" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+        <Label Grid.Column="1" Content="DAILY RATE ($)" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" FontWeight="Bold" FontSize="14" Width="110" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+        <Label Grid.Column="1" Content="START DATE" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Width="110" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+        <Label Grid.Column="1" Content="DESCRIPTION" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" FontWeight="Bold" FontSize="15" Width="110" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="ComboboxSkills" Grid.Column="2" HorizontalAlignment="Right" Grid.Row="2" Width="120" Height="30" VerticalAlignment="Top" FontSize="15" VerticalContentAlignment="Center" Margin="0,10,70,0">
+            <ComboBoxItem Name="JobDrill" Content="Drill" FontSize="15"/>
+            <ComboBoxItem Name="JobExcavator" Content="Excavator" FontSize="15"/>
+            <ComboBoxItem Name="JobTruck" Content="Truck" FontSize="15"/>
+            <ComboBoxItem Name="JobCrusher" Content="Crusher" FontSize="15"/>
+            <ComboBoxItem Name="JobReclaimer" Content="Reclaimer" FontSize="15"/>
+            <ComboBoxItem Name="JobTrain" Content="Train" FontSize="15"/>
+        </ComboBox>
+        <TextBox x:Name="TextboxName" Grid.Column="2" HorizontalAlignment="Right" Margin="0,0,10,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="180" Height="40" FontSize="18" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name ="TextboxMinRate" Grid.Column="2" HorizontalAlignment="Right" Margin="10,0,110,0" Grid.Row="3" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="70" Height="40" FontSize="18" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name ="TextboxMaxRate" Grid.Column="2" HorizontalAlignment="Right" Margin="0,0,10,0" Grid.Row="3" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="70" Height="40" FontSize="18" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="TextboxDescription" Grid.Column="2" HorizontalAlignment="Right" Margin="0,0,10,0" Grid.Row="5" Grid.RowSpan="2"  TextWrapping="Wrap" Text="Please describe the job details here." VerticalAlignment="Center" Width="180" Height="130" FontSize="13" PreviewGotKeyboardFocus="TextboxDescription_PreviewGotKeyboardFocus"/>
+        <TextBox x:Name="TextboxStart" Grid.Column="2" HorizontalAlignment="Right" Margin="0,0,10,0" Grid.Row="4" TextWrapping="Wrap" Text="DD/MM/YYYY" VerticalAlignment="Center" Width="180" Height="40" FontSize="18" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" PreviewGotKeyboardFocus="TextboxStart_PreviewGotKeyboardFocus"/>
+        <Label Grid.Column="2" Content="~" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" Height="63" FontSize="30" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="89,0,0,0"/>
+        <Button x:Name="ButtonEnrol" Content="ENROL" Grid.Column="2" Margin="0,0,10,0" Grid.Row="7" Height="38" Width ="180" VerticalAlignment="Center" HorizontalAlignment="Right" FontWeight="Black" FontSize="18" Background="#FFB4F6A0" Click="ButtonEnrol_Click"/>
+        <Button x:Name="ButtonAdd"  Grid.Column="2" Content="ADD" HorizontalAlignment="Right" Margin="0,10,10,0" Grid.Row="2" VerticalAlignment="Top" Height="30" Width="49" Click="ButtonAdd_Click"/>
+        <ListBox x:Name="ListboxSkills" Grid.Column="2" HorizontalAlignment="Right" Height="67" Margin="0,48,10,0" Grid.Row="2" VerticalAlignment="Top" Width="180" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+
+    </Grid>
+</Window>

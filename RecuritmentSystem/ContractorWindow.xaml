@@ -1,0 +1,47 @@
+﻿<Window x:Class="RecuritmentSystem20122791.ContractorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecuritmentSystem20122791"
+        mc:Ignorable="d"
+        Title="ContractorWindow" Height="500" Width="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="15"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="16"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="16"/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="ListboxContractors" Grid.Column="3" Grid.ColumnSpan="1" Grid.Row="2" Grid.RowSpan="4" Margin="0,10,0,10" Background="#FF000000" Foreground="White" FontSize="10" Padding="30,0,0,0" d:ItemsSource="{d:SampleData ItemCount=5}" MouseDoubleClick="ListboxContractors_MouseDoubleClick"/>
+        <Label Grid.Column="1" Content="Contractor Information" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Bottom" Height="70" Width="660" Grid.ColumnSpan="3" FontSize="50" FontWeight="Black" Margin="5,0,0,10"/>
+        <Button x:Name ="ButtonAdd" Content="ADD" Grid.Column="1" Margin="0,5,0,10" Grid.Row="2" Height="70" Width ="210" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="30" Background="#FFB4F6A0" Click="ButtonAdd_Click"/>
+        <Button x:Name ="ButtonTerminate" Content="TERMINATE" Grid.Column="1" Margin="0,5,0,10" Grid.Row="3" Height="70" Width ="210" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="30" Background="#FFB4F6A0" Click="ButtonTerminate_Click"/>
+        <Button x:Name ="ButtonEdit" Content="EDIT" Grid.Column="1" Margin="0,5,0,10" Grid.Row="4" Height="70" Width ="210" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="30" BorderBrush="#FFD92014" Foreground="White" Click="ButtonEdit_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFF45A1E" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name ="ButtonDelete" Content="DELETE" Grid.Column="1" Margin="0,5,0,10" Grid.Row="5" Height="70" Width ="210" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="30" BorderBrush="#FFD92014" Foreground="White" Click="ButtonDelete_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFF45A1E" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
