@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davem\\source\\repos\\00_Completed\\ForGithubUpdates\\RecuritmentSystem\\RecuritmentSystem\\RecuritmentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\davem\\source\\repos\\RecuritmentSystemOOP\\RecuritmentSystem\\RecuritmentSystem.csproj",
       "projectName": "RecuritmentSystem",
-      "projectPath": "C:\\Users\\davem\\source\\repos\\00_Completed\\ForGithubUpdates\\RecuritmentSystem\\RecuritmentSystem\\RecuritmentSystem.csproj",
+      "projectPath": "C:\\Users\\davem\\source\\repos\\RecuritmentSystemOOP\\RecuritmentSystem\\RecuritmentSystem.csproj",
       "packagesPath": "C:\\Users\\davem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\davem\\source\\repos\\00_Completed\\ForGithubUpdates\\RecuritmentSystem\\RecuritmentSystem\\obj\\",
+      "outputPath": "C:\\Users\\davem\\source\\repos\\RecuritmentSystemOOP\\RecuritmentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
